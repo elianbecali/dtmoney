@@ -1,7 +1,11 @@
+import { GlobalStyle } from "./styles/global";
+
 export function App() {
   return (
     <div className="App">
-      Hello Ignite
+      <GlobalStyle />
+      <h1>Hello world</h1>
+
     </div>
   );
 }
