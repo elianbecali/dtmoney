@@ -13,7 +13,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/elianbecali/dtmoney">
   
-  <a href="https://github.com/elianbecali/dtmoney/commits/master">
+  <a href="https://github.com/elianbecali/dtmoney/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/elianbecali/dtmoney">
   </a>
 
